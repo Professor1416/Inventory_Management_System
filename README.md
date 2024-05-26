@@ -9,7 +9,7 @@ To get started with this project, you will need to have Java installed on your c
 Once you have Java installed, you can clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/inventory-management-system.git
+git clone https://github.com/Professor1416/inventory-management-system.git
 ```
 ## Running the Project
 To run the project, navigate to the root directory of the project and run the following command:
